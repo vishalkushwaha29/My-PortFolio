@@ -32,7 +32,7 @@ This website showcases my **projects, skills, and experience** as a web develope
 - **Name:** Vishal Kushwaha  
 - **Location:** Noida, Uttar Pradesh, India  
 - **Email:** [vk6672304@gmail.com](mailto:vk6672304@gmail.com)  
-- **Portfolio:** [https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/](https://github.com/vishalkushwaha29/My-PortFolio/)  
+- **Portfolio:** https://vishalkushwaha29.github.io/My-PortFolio/  
 - **LinkedIn:** [https://www.linkedin.com/in/vishal-kushwaha-161853185/](https://www.linkedin.com/in/vishal-kushwaha-161853185/)
 
 ---
